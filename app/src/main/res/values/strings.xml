@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">QR Barcode Scanner</string>
+    <string name="share">Share</string>
+    <string name="OK">Ok</string>
+    <string name="QR_Code">QR Code</string>
+    <string name="Help_help">Help</string>
+    <string name="Flash">Flash</string>
+    <string name="Scan_Image">Scan image</string>
+    <string name="Copy_Code">Copy Code</string>
+    <string name="Delete">Delete</string>
+    <string name="history">History</string>
+    <string name="Scanner">Scanner</string>
+    <string name="Create">Create</string>
+    <string name="History">History</string>
+    <string name="Settings">Settings</string>
+    <string name="writ">Write</string>
+    <string name="length">Maximum length exceeded.</string>
+    <string name="title_activity_scrollable_tabs" translatable="false">Scrollable Tabs</string>
+    <string name="title_activity_simple_tabs" translatable="false">Simple Tabs</string>
+    <string name="btn_simple_tabs" translatable="false">Simple Tabs</string>
+    <string name="btn_scrollable_tabs" translatable="false">Scrollable Tabs</string>
+    <string name="btn_icon_text_tabs" translatable="false">Icon &amp; Text Tabs</string>
+    <string name="btn_icon_tabs" translatable="false">Only Icon Tabs</string>
+    <string name="btn_pinned_top_tabs" translatable="false">Pinned To Top Tabs</string>
+    <string name="title_activity_icon_text_tabs" translatable="false">Icon and Text Tabs</string>
+    <string name="title_activity_icon_tabs" translatable="false">Icon Tabs</string>
+    <string name="btn_custom_icon_tabs" translatable="false">Custom View Icon &amp; Text</string>
+    <string name="title_activity_custom_view_icon_text_tabs" translatable="false">Custom View Icon &amp; Text</string>
+    <string name="title_activity_pinned_top_tabs" translatable="false">Pin Top Tabs</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="grant_permission" translatable="false">Grant Permission</string>
+    <string name="permission_camera" translatable="false">This app needs camera permission to scan barcode</string>
+    <string name="permission_camera_rationale" translatable="false">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission" translatable="false">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error" translatable="false">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main" translatable="false">Barcode Reader Sample</string>
+    <string name="barcode_header" translatable="false">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode" translatable="false">Read Barcode</string>
+    <string name="auto_focus" translatable="false">Auto Focus</string>
+    <string name="use_flash" translatable="false">Use Flash</string>
+    <string name="barcode_success" translatable="false">Barcode read successfully</string>
+    <string name="barcode_failure" translatable="false">No barcode captured</string>
+    <string name="barcode_error" translatable="false">"Error reading barcode: %1$s"</string>
+    <string name="grant" translatable="false">GRANT</string>
+    <string name="cancel" translatable="false">CANCEL</string>
+    <string name="prefs_theme_key" translatable="false">theme</string>
+    <string name="problem" translatable="false">The camera does not turn off when I switch from the scan screen to this screen ??? When I point it at a QR code, it reads the bar code.</string>
+
+
+
+</resources>

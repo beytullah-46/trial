@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0299A7</color>
+    <color name="scanner_line">#00ceff</color>
+    <color name="colorPrimaryDark">#028390</color>
+    <color name="edittextcolor">#7C028390</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorBlack">#A9050505</color>
+    <color name="textColorBlack2">#C3050505</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#ADFF9800</color>
+    <color name="actionmod">#0299A7</color>
+    <color name="colorAccent2">#028390</color>
+    <color name="twitter_blue">#ff1da1f2</color>
+    <color name="medium_gray">#ffaab8c2</color>
+    <color name="Transparan">#00AAB8C2</color>
+    <color name="yellow">#4AFF9800</color>
+    <color name="text_enabled">#F3D65F</color>
+    <color name="text_disabled">#FFFFFF</color>
+    <color name="text2_enabled">#F3D65F</color>
+    <color name="text2_disabled">#028390</color>
+    <color name="icon_enabled">#F3D65F</color>
+    <color name="icon_disabled">#FFFFFF</color>
+    <color name="icon2_enabled">#F3D65F</color>
+    <color name="icon2_disabled">#028390</color>
+    <color name="camera_scanner">#8F000000</color>
+    <color name="purple_bg">#95FF9800</color>
+    <color name="error">#F70707</color>
+
+
+
+
+</resources>

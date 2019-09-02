@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415376208144",
+    "firebase_url": "https://qr-barcode-scanner-cf6cc.firebaseio.com",
+    "project_id": "qr-barcode-scanner-cf6cc",
+    "storage_bucket": "qr-barcode-scanner-cf6cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415376208144:android:154d353f603431f0",
+        "android_client_info": {
+          "package_name": "com.beytullahzengin.qrbarkodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415376208144-1k3rrshug955h4d3pi8j9j5pjnkga8h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbA_jBbPkN22E16Z_-Q_g02eitIT_h--4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415376208144-1k3rrshug955h4d3pi8j9j5pjnkga8h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

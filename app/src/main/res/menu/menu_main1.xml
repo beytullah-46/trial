@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.beytullahzengin.qrbarkodescanner.ResultActivity">
+
+
+
+        <item
+            android:id="@+id/intentcek"
+            android:title="@string/writ"
+            android:icon="@drawable/ic_refresh"
+            android:orderInCategory="100"
+            app:showAsAction="always" />
+
+
+        </menu>
+
+
+
+
+
+
+
+
+
+
+
+
